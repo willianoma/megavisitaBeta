@@ -1,0 +1,60 @@
+501| Ornato Box| 01/07/2015 08:35:00am| 01/07/2015 11:09:00am| Preventiva tudo OK nos PCs| Nenhuma| NO| Adenis Duarte| -9.641714 , -35.7091394| 01-07-2015 11:08:54
+502| Hotel Yes| 01/07/2015 11:15:00am| 01/07/2015 12:03:00pm| Preventiva tudo OK nos PCs| Nenhuma| NO| Adenis Duarte| -9.6429811 , -35.7043823| 01-07-2015 12:02:35
+503| Loja Liquido| 01/07/2015 12:22:00pm| 01/07/2015 01:16:00pm| Preventiva Tudo OK nos PCs| Nenhuma| NO| Adenis Duarte| -9.6568478 , -35.7030918| 01-07-2015 13:15:07
+504| Clínica Quatro Patas| 02/07/2015 10:05:00am| 02/07/2015 11:14:00am| Instalação de uma impressora mais preventiva Tudo OK nos PCs| Nenhuma| NO| Adenis Duarte| -9.6012723 , -35.7228576| 02-07-2015 11:14:00
+505| Zebrinha (Serraria)| 03/07/2015 01:30:00pm| 03/07/2015 02:15:00pm| Instalação da TV das câmeras| Nenhuma| NO| Adenis Duarte| -9.6063619 , -35.7228632| 03-07-2015 14:15:16
+506| Colégio Objetivo| 03/07/2015 02:05:00pm| 03/07/2015 04:00:00pm| Preventiva mais organização do laboratório tudo OK nos PCs| Uma CPU precisa do kit upgrade mais um HD e um 2 mouses| NO| Adenis Duarte| -9.6247375 , -35.7272617| 03-07-2015 15:59:17
+507| Clínica Quatro Patas| 06/07/2015 11:35:00am| 06/07/2015 12:37:00pm| Preventiva Tudo OK nos PCs| Nenhuma| NO| Adenis Duarte| -9.6014839 , -35.7229571| 06-07-2015 12:36:31
+508| Zebrinha (Serraria)| 06/07/2015 12:40:00pm| 06/07/2015 01:45:00pm| Preventiva Tudo OK no pc| Nenhuma| NO| Adenis Duarte| -9.6210888 , -35.7231498| 06-07-2015 14:40:50
+509| Barro Duro Construções| 06/07/2015 02:00:00pm| 06/07/2015 02:54:00pm| Preventiva mais formatação de CPU| Nenhuma| NO| Adenis Duarte| -9.6211462 , -35.7231306| 06-07-2015 14:54:04
+510| Ornato Box| 07/07/2015 10:30:00am| 07/07/2015 10:50:00am| Visita de rotina.| Verificar computador do felix, realizar limpeza fisica em busca de curto circuitos.| NO| Willian Acioly| -9.6417113 , -35.7091096| 07-07-2015 10:51:54
+511| Zebrinha (Eustaquio Gomes)| 07/07/2015 02:10:00pm| 07/07/2015 03:03:00pm| Preventiva Tudo OK no PC| Nenhuma| NO| Adenis Duarte| -9.5442891 , -35.7888604| 07-07-2015 15:02:23
+512| Zebrinha (Clima Bom)| 07/07/2015 03:11:00pm| 07/07/2015 03:42:00pm| Preventiva Tudo OK no PC| Nenhuma| NO| Adenis Duarte| -9.5727756 , -35.7778979| 07-07-2015 15:41:13
+513| Zebrinha (Tabuleiro)| 07/07/2015 03:46:00pm| 07/07/2015 04:16:00pm| Preventiva Tudo OK no PC| Nenhuma| NO| Adenis Duarte| -9.5766109 , -35.7712062| 07-07-2015 16:15:36
+514| Brasil Norte Madeiras| 07/07/2015 04:20:00pm| 07/07/2015 05:25:00pm| Preventiva Tudo OK nos PCs| Nenhuma| NO| Adenis Duarte| -9.5942399 , -35.7536578| 07-07-2015 17:24:56
+515| Zebrinha (Centro)| 08/07/2015 08:50:00am| 08/07/2015 09:26:00am| Preventiva Tudo OK no PC| Nenhuma| NO| Adenis Duarte| -9.6630337 , -35.7374143| 08-07-2015 09:26:01
+516| Hotel Yes| 08/07/2015 12:25:00pm| 08/07/2015 01:17:00pm| Preventiva Tudo OK nos PCs| Nenhuma| NO| Adenis Duarte| -9.6429454 , -35.7043557| 08-07-2015 13:16:29
+517| Zebrinha (Centro)| 08/07/2015 02:25:00pm| 08/07/2015 03:00:00pm| Emergência captura filmagens| Nenhuma| NO| Adenis Duarte| -9.6630324 , -35.7374173| 08-07-2015 14:59:56
+518| Zebrinha (Centenário)| 08/07/2015 03:10:00pm| 08/07/2015 03:50:00pm| Preventiva Tudo OK no PC| Nenhuma| NO| Adenis Duarte| -9.652145 , -35.7330254| 08-07-2015 15:49:25
+519| Clínica Quatro Patas| 09/07/2015 08:20:00am| 09/07/2015 08:30:00am| Entregar de boleto| Nenhuma| NO| Adenis Duarte| -9.5600687 , -35.7568825| 09-07-2015 11:15:27
+520| Asa Logistica| 09/07/2015 08:50:00am| 09/07/2015 11:15:00am| Preventiva Tudo OK nos PCs| Nenhuma| NO| Adenis Duarte| -9.5600688 , -35.7568836| 09-07-2015 11:16:07
+521| Mercadinho Araújo| 09/07/2015 11:35:00am| 09/07/2015 12:10:00pm| Preventiva Tudo OK nos PCs mais entrega de boleto| Nenhuma| NO| Adenis Duarte| -9.5473853 , -35.7197251| 09-07-2015 12:09:26
+522| Zebrinha (Santa Lucia)| 09/07/2015 12:25:00pm| 09/07/2015 12:48:00pm| Preventiva Tudo OK no PC| Nenhuma| NO| Adenis Duarte| -9.5822994 , -35.7618305| 09-07-2015 12:47:17
+523| Colégio Objetivo| 09/07/2015 03:35:00pm| 09/07/2015 04:30:00pm| Preventiva Tudo OK nos PCs| Nenhuma| NO| Adenis Duarte| -9.6244693 , -35.7282838| 09-07-2015 16:58:44
+524| Ornato Box| 10/07/2015 08:30:00am| 10/07/2015 10:05:00am| Preventiva Tudo OK nos PCs| Nenhuma| NO| Adenis Duarte| -9.6431098 , -35.7083937| 10-07-2015 10:24:09
+525| Outra empresa| 10/07/2015 10:13:00am| 10/07/2015 11:19:00am| (Porto mar hotel) preventiva Tudo OK nos PCs| Segunda feira limpeza PC da recepção| NO| Adenis Duarte| -9.6431409 , -35.708343| 10-07-2015 11:18:46
+526| Colégio Objetivo| 10/07/2015 11:35:00am| 10/07/2015 12:17:00pm| Preventiva Tudo OK nos PCs| Nenhuma| NO| Adenis Duarte| -9.624691 , -35.7270714| 10-07-2015 12:16:07
+527| Loja Liquido| 10/07/2015 12:35:00pm| 10/07/2015 01:33:00pm| Preventiva Tudo OK nos PCs| Nenhuma| NO| Adenis Duarte| -9.6565125 , -35.7047092| 10-07-2015 13:32:39
+528| Outra empresa| 13/07/2015 09:25:00am| 13/07/2015 11:45:00am| (Hotel porto mar) limpeza de CPU mais instalação de cabos de rede| Nenhuma| NO| Adenis Duarte| -9.6248288 , -35.7273215| 13-07-2015 17:02:30
+529| Colégio Objetivo| 13/07/2015 02:35:00pm| 13/07/2015 05:04:00pm| Formatação de CPU mais instalação de memória na CPU da secretária| Nenhuma| NO| Adenis Duarte| -9.6246938 , -35.7272459| 13-07-2015 17:03:18
+530| Colégio Objetivo| 14/07/2015 10:10:00am| 14/07/2015 11:00:00am| Emergência PC da Paula com memória com mau contato mais substituição de um mouse na sala da Letícia tudo OK nos PCs| Nenhuma| NO| Adenis Duarte| -9.6652147 , -35.751518| 14-07-2015 11:36:14
+531| Ornato Box| 15/07/2015 09:30:00am| 15/07/2015 12:05:00pm| Formatação de HD PC do Vítor mais preventiva Tudo OK nos PCs| Nenhuma| NO| Adenis Duarte| -9.6416837 , -35.709119| 15-07-2015 12:04:26
+532| Zebrinha (Centro)| 15/07/2015 11:20:00am| 15/07/2015 12:05:00pm| Foi feito os testes na oi velox, porem a mesma apresentou defeito, o teste de Ping retounou 28% de perda em 7 pacotes enviado. Entramos em contato com o suporta da oi velox realizamos os testes e foi constatado que foi problema na linha externa da velox,| | NO| Willian Acioly| -9.6630746 , -35.7374224| 15-07-2015 12:28:42
+533| Hotel Yes| 15/07/2015 12:10:00pm| 15/07/2015 01:15:00pm| Preventiva Tudo OK nos PCs mais backup do desbravador PC da wilka| Nenhuma| NO| Adenis Duarte| -9.6429887 , -35.7043867| 15-07-2015 13:14:55
+534| Yellow Kite| 15/07/2015 01:20:00pm| 15/07/2015 03:40:00pm| Tentativa de configuração de DVR falha por causa de senha de acesso do roteador NET, foi solicitado um técnico na net para verificar o roteado| Nenhuma| NO| Willian Acioly| -9.652545 , -35.7012563| 15-07-2015 15:21:02
+535| Clínica Quatro Patas| 16/07/2015 08:30:00am| 16/07/2015 10:40:00am| Preventiva Tudo OK nos PCs| Nenhuma| NO| Adenis Duarte| -9.6014597 , -35.7228775| 16-07-2015 10:39:43
+536| Asa Logistica| 16/07/2015 11:00:00am| 16/07/2015 01:36:00pm| Preventiva Tudo OK nos PCs mais formatação de notebook dona Suzana| Recolhido para formatação| NO| Adenis Duarte| -9.5600688 , -35.7568837| 16-07-2015 13:36:06
+537| Ornato Box| 17/07/2015 10:17:00am| 17/07/2015 10:29:00am| Emergência impressora do Vítor não imprimir resolvido| Nenhuma| NO| Adenis Duarte| -9.6416665 , -35.7091111| 17-07-2015 10:28:05
+538| Escritório de advocacia| 17/07/2015 10:38:00am| 17/07/2015 11:13:00am| Pre tudo OK nos PCs| Nenhuma| NO| Adenis Duarte| -9.6699865 , -35.7294968| 17-07-2015 11:12:08
+539| Ornato Box| 20/07/2015 08:00:00am| 20/07/2015 09:01:00am| Instalação de impressora no PC do Vítor mais preventiva Tudo OK nos PCs| Nenhuma| NO| Adenis Duarte| -9.6416972 , -35.7091169| 20-07-2015 09:00:10
+540| Hotel Yes| 20/07/2015 09:03:00am| 20/07/2015 09:26:00am| Preventiva Tudo OK nos PCs| Nenhuma| NO| Adenis Duarte| -9.6429951 , -35.704376| 20-07-2015 09:26:18
+541| Outra empresa| 20/07/2015 09:27:00am| 20/07/2015 10:05:00am| (Hotel porto mar) preventiva Tudo OK nos PCs| Nenhuma| NO| Adenis Duarte| -9.6429581 , -35.7085217| 20-07-2015 10:04:29
+542| Loja Liquido| 20/07/2015 10:10:00am| 20/07/2015 10:46:00am| Preventiva Tudo OK nos PCs| Nenhuma| NO| Adenis Duarte| -9.6568564 , -35.7031074| 20-07-2015 10:45:53
+543| Ornato Box| 20/07/2015 10:53:00am| 20/07/2015 11:24:00am| Emergência PC de Daniela memória com mau contato retirado o mau contato problema resolvido| Nenhuma| NO| Adenis Duarte| -9.6417153 , -35.7091312| 20-07-2015 11:23:43
+544| Hotel Porto Mar| 20/07/2015 01:32:00pm| 20/07/2015 01:32:00pm| Foi detectado que o sinal do roteador terreo elevador estava com sinal fraco, foi feita a troca do canal 4 para o 9, foi configurado tambem o LOG por email, onde iremos monitorar remotamente a rede do hotel afim de detectar futuros problemas, também fomo| Nenhuma| NO| Willian Acioly| -9.642726 , -35.7089623| 20-07-2015 13:35:05
+545| Hotel Yes| 20/07/2015 01:40:00pm| 20/07/2015 01:51:00pm| Visita de gestão de qualidade: feita uma reclamação da qualidade do serviço do técnico Adenis com relação a remoção de ADWARES na maquina da recepção.| Nenhuma| NO| Willian Acioly| -9.6430062 , -35.7043015| 20-07-2015 13:52:42
+546| Colégio Objetivo| 21/07/2015 08:00:00am| 21/07/2015 09:19:00am| Preventiva Tudo OK nos PCs mais quebra de senha no PC da marilena| Nenhuma| NO| Adenis Duarte| -9.6247592 , -35.7271234| 21-07-2015 09:18:26
+547| Clínica Quatro Patas| 21/07/2015 09:26:00am| 21/07/2015 10:15:00am| Preventiva Tudo OK nos PCs| Nenhuma| NO| Adenis Duarte| -9.5600687 , -35.7568828| 21-07-2015 11:26:44
+548| Asa Logistica| 21/07/2015 10:25:00am| 21/07/2015 12:35:00pm| Preventiva Tudo OK nos PCs| Nenhuma| NO| Adenis Duarte| -9.6652311 , -35.751594| 21-07-2015 15:53:36
+549| Zebrinha (Eustaquio Gomes)| 21/07/2015 12:41:00pm| 21/07/2015 01:15:00pm| Preventiva Tudo OK No PC| Nenhuma| NO| Adenis Duarte| -9.6652257 , -35.7515981| 21-07-2015 15:54:27
+550| Rei do Gas| 22/07/2015 08:20:00am| 22/07/2015 10:35:00am| Preventiva Tudo OK nos PCs mais instalação de programa de nota fiscal| Nenhuma| NO| Adenis Duarte| -9.6666209 , -35.7378371| 22-07-2015 11:23:39
+551| Outra empresa| 22/07/2015 10:42:00am| 22/07/2015 11:25:00am| (Aeroturismo) configuração de câmera| Nenhuma| NO| Adenis Duarte| -9.6666149 , -35.7378552| 22-07-2015 11:24:45
+552| Zebrinha (Centro)| 22/07/2015 11:30:00am| 22/07/2015 12:10:00pm| Preventiva Tudo OK no PC mais configuração das câmeras| Nenhuma| NO| Adenis Duarte| -9.6630514 , -35.7374223| 22-07-2015 12:09:06
+553| Zebrinha (Clima Bom)| 23/07/2015 01:20:00pm| 23/07/2015 01:50:00pm| Preventiva Tudo ou no PC| Nenhuma| NO| Adenis Duarte| -9.5821477 , -35.7616962| 23-07-2015 15:21:20
+554| Zebrinha (Tabuleiro)| 23/07/2015 01:53:00pm| 23/07/2015 02:18:00pm| Preventiva Tudo OK no PC| Nenhuma| NO| Adenis Duarte| -9.5821485 , -35.7616976| 23-07-2015 15:22:04
+555| Outra empresa| 23/07/2015 02:28:00pm| 23/07/2015 02:40:00pm| (Construtora) PCs com HD queimados| Remoção de hds| NO| Adenis Duarte| -9.5822541 , -35.7617839| 23-07-2015 15:23:39
+556| Zebrinha (Santa Lucia)| 23/07/2015 02:50:00pm| 23/07/2015 03:25:00pm| Preventiva Tudo OK no PC| Nenhuma| NO| Adenis Duarte| -9.5821608 , -35.7616787| 23-07-2015 15:24:20
+557| Brasil Norte Madeiras| 23/07/2015 03:30:00pm| 23/07/2015 04:20:00pm| Preventiva Tudo OK nos PCs| Nenhuma| NO| Adenis Duarte| -9.5946005 , -35.7532013| 23-07-2015 16:19:06
+558| Zebrinha (Serraria)| 24/07/2015 09:30:00am| 24/07/2015 10:46:00am| Preventiva Tudo OK no PC| Nenhuma| NO| Adenis Duarte| -9.6063697 , -35.7229903| 24-07-2015 10:46:49
+559| Ornato Box| 24/07/2015 11:00:00am| 24/07/2015 11:50:00am| (Emergência PC de Daniela placa mas queimou)| Procurar uma placa mãe identica| NO| Adenis Duarte| -9.6430013 , -35.704397| 24-07-2015 12:31:19
+560| Hotel Yes| 24/07/2015 11:55:00am| 24/07/2015 01:00:00pm| Emergência conectá email do hotel com email da gerência resolvido| Nenhuma| NO| Adenis Duarte| -9.6430192 , -35.7043933| 24-07-2015 12:59:12
